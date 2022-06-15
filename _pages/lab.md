@@ -11,3 +11,8 @@ author_profile: true
 ## Lab Members
 
 
+## Lab Book
+
+See our lab protocols [here](/lab-book/).
+
+
