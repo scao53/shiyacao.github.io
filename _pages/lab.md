@@ -1,13 +1,13 @@
 ---
-permalink: /publications/
+permalink: /lab/
 title: "Data Ethnography and Advocacy Lab (DEAL)"
 excerpt: "Data Ethnography and Advocacy Lab (DEAL)"
 author_profile: true
 ---
 
-# About
+## About
 
 
-# Lab Members
+## Lab Members
 
 
