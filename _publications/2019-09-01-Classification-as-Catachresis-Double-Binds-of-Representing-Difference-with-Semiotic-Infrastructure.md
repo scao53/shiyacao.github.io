@@ -2,7 +2,7 @@
 title: "Classification as Catachresis: Double Binds of Representing Difference with Semiotic Infrastructure"
 collection: publications
 permalink: /publication/2019-09-01-Classification-as-Catachresis-Double-Binds-of-Representing-Difference-with-Semiotic-Infrastructure
-excerpt: 'Background  This article explores the results of a three-year ethnographic study of how semiotic infrastructures- or digital standards and frameworks such as taxonomies, schemas, and ontologies that encode the meaning of data- are designed. Analysis  It examines debates over best practices in semiot'...
+excerpt: 'Background  This article explores the results of a three-year ethnographic study of how semiotic infrastructures- or digital standards and frameworks such as taxonomies, schemas, and ontologies that encode the meaning of data- are designed. Analysis  It examines debates over best practices in semiot...'
 date: 2019-09-01
 venue: 'Canadian Journal of Communication'
 paperurl: 'https://www.cjc-online.ca/index.php/journal/article/view/3455'

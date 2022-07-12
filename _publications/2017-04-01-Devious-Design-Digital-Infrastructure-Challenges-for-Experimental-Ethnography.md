@@ -2,7 +2,7 @@
 title: "Devious Design: Digital Infrastructure Challenges for Experimental Ethnography"
 collection: publications
 permalink: /publication/2017-04-01-Devious-Design-Digital-Infrastructure-Challenges-for-Experimental-Ethnography
-excerpt: 'Diverse disciplinary communities approach design with diverse design logics design directives informed by critical theoretical commitments that are to be translated into material form. Recounting the design of a digital humanities platform, this paper shows how design logics of existing digital infr'...
+excerpt: 'Diverse disciplinary communities approach design with diverse design logics design directives informed by critical theoretical commitments that are to be translated into material form. Recounting the design of a digital humanities platform, this paper shows how design logics of existing digital infr...'
 date: 2017-04-01
 venue: 'Design Issues'
 citation: ' Lindsay Poirier, &quot;Devious Design: Digital Infrastructure Challenges for Experimental Ethnography.&quot; Design Issues, 2017.'

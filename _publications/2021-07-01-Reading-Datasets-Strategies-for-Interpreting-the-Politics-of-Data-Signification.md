@@ -2,7 +2,7 @@
 title: "Reading Datasets: Strategies for Interpreting the Politics of Data Signification"
 collection: publications
 permalink: /publication/2021-07-01-Reading-Datasets-Strategies-for-Interpreting-the-Politics-of-Data-Signification
-excerpt: 'All datasets emerge from and are enmeshed in power-laden semiotic systems. While emerging data ethics curriculum is supporting data science students in identifying data biases and their consequences, critical attention to the cultural histories and vested interests animating data semantics is needed'...
+excerpt: 'All datasets emerge from and are enmeshed in power-laden semiotic systems. While emerging data ethics curriculum is supporting data science students in identifying data biases and their consequences, critical attention to the cultural histories and vested interests animating data semantics is needed...'
 date: 2021-07-01
 venue: 'Big Data &amp; Society'
 paperurl: 'https://doi.org/10.1177/20539517211029322'

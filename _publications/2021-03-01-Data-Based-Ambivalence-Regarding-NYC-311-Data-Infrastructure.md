@@ -2,7 +2,7 @@
 title: "Data(-)Based Ambivalence Regarding NYC 311 Data Infrastructure"
 collection: publications
 permalink: /publication/2021-03-01-Data-Based-Ambivalence-Regarding-NYC-311-Data-Infrastructure
-excerpt: 'In New York City, data documenting complaints made to 311 - the city&apos;s municipal &apos;customer service&apos; agency - are increasingly being analyzed by city agencies, politicians, activists, and residents to make sense of urban quality of life. This article examines the infrastructural and socio-cultural co'...
+excerpt: 'In New York City, data documenting complaints made to 311 - the city&apos;s municipal &apos;customer service&apos; agency - are increasingly being analyzed by city agencies, politicians, activists, and residents to make sense of urban quality of life. This article examines the infrastructural and socio-cultural co...'
 date: 2021-03-01
 venue: 'Cultural Studies'
 paperurl: 'https://doi.org/10.1080/09502386.2021.1895256'

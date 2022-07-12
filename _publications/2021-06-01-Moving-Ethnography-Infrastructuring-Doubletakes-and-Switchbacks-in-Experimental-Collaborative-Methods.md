@@ -2,7 +2,7 @@
 title: "Moving Ethnography: Infrastructuring Doubletakes and Switchbacks in Experimental Collaborative Methods"
 collection: publications
 permalink: /publication/2021-06-01-Moving-Ethnography-Infrastructuring-Doubletakes-and-Switchbacks-in-Experimental-Collaborative-Methods
-excerpt: 'In this article, we describe how our work at a particular nexus of STS, ethnography, and critical theory- informed by experimental sensibilities in both the arts and sciences- transformed as we built and learned to use collaborative workflows and supporting digital infrastructure. Responding to the '...
+excerpt: 'In this article, we describe how our work at a particular nexus of STS, ethnography, and critical theory- informed by experimental sensibilities in both the arts and sciences- transformed as we built and learned to use collaborative workflows and supporting digital infrastructure. Responding to the ...'
 date: 2021-06-01
 venue: 'Science &amp; Technology Studies'
 paperurl: 'https://sciencetechnologystudies.journal.fi/article/view/89782'

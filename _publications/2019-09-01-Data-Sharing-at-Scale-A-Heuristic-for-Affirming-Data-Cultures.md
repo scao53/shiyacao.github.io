@@ -2,7 +2,7 @@
 title: "Data Sharing at Scale: A Heuristic for Affirming Data Cultures"
 collection: publications
 permalink: /publication/2019-09-01-Data-Sharing-at-Scale-A-Heuristic-for-Affirming-Data-Cultures
-excerpt: 'Addressing the most pressing contemporary social, environmental, and technological challenges will require integrating insights and sharing data across disciplines, geographies, and cultures. Strengthening international data sharing networks will not only demand advancing technical, legal, and logis'...
+excerpt: 'Addressing the most pressing contemporary social, environmental, and technological challenges will require integrating insights and sharing data across disciplines, geographies, and cultures. Strengthening international data sharing networks will not only demand advancing technical, legal, and logis...'
 date: 2019-09-01
 venue: 'Data Science Journal'
 paperurl: 'http://datascience.codata.org/articles/10.5334/dsj-2019-048/'

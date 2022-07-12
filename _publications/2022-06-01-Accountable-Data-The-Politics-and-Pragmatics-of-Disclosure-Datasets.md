@@ -2,7 +2,7 @@
 title: "Accountable Data: The Politics and Pragmatics of Disclosure Datasets"
 collection: publications
 permalink: /publication/2022-06-01-Accountable-Data-The-Politics-and-Pragmatics-of-Disclosure-Datasets
-excerpt: 'This paper attends specifically to what I call &apos;&apos;disclosure datasets&apos;&apos; - tabular datasets produced in accordance with laws requiring various kinds of disclosure. For the purposes of this paper, the most significant defining feature of disclosure datasets is that they aggregate information produced a'...
+excerpt: 'This paper attends specifically to what I call &apos;&apos;disclosure datasets&apos;&apos; - tabular datasets produced in accordance with laws requiring various kinds of disclosure. For the purposes of this paper, the most significant defining feature of disclosure datasets is that they aggregate information produced a...'
 date: 2022-06-01
 venue: 'In the proceedings of 2022 ACM Conference on Fairness, Accountability, and Transparency'
 paperurl: 'https://doi.org/10.1145/3531146.3533201'

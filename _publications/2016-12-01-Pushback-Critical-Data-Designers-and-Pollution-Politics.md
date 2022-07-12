@@ -2,7 +2,7 @@
 title: "Pushback: Critical Data Designers and Pollution Politics"
 collection: publications
 permalink: /publication/2016-12-01-Pushback-Critical-Data-Designers-and-Pollution-Politics
-excerpt: 'In this paper, we describe how critical data designers have created projects that &apos;push back&apos; against the eclipse of environmental problems by dominant orders: the pioneering pollution database Scorecard, released by the US NGO Environmental Defense Fund in 1997; the US Environmental Protection Agen'...
+excerpt: 'In this paper, we describe how critical data designers have created projects that &apos;push back&apos; against the eclipse of environmental problems by dominant orders: the pioneering pollution database Scorecard, released by the US NGO Environmental Defense Fund in 1997; the US Environmental Protection Agen...'
 date: 2016-12-01
 venue: 'Big Data &amp; Society'
 paperurl: 'https://doi.org/10.1177/2053951716668903'
