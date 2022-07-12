@@ -8,7 +8,7 @@ author_profile: true
 
 ## Introduction 
 
-Welcome to the Data Ethnography and Advocacy Lab Collaboration Protocols! Here we outline the values that guide our work, group roles and responsibilities, protocols for facilitating meetings, guidelines for documenting our work, and expectations on group conduct. 
+Welcome to the Data Ethnography and Advocacy Lab Book! Here we outline the values that guide our work, group roles and responsibilities, protocols for facilitating meetings, guidelines for documenting our work, and expectations on group conduct. 
 
 These protocols are inspired from the work of several groups that inspire us - in particular the [Carceral Ecologies Lab Book](https://github.com/Carceral-Ecologies/lab_book), the [CLEAR Lab Book](https://civiclaboratory.nl/clear-lab-book/), the [Aly Lab Manual](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf), the PECE Design Team Protocols, and the Energy Rights Project Protocols. In-text citations are provided throughout the document where text is drawn directly from these sources documents. Full citations of these resources are listed in the References section.
 
@@ -48,13 +48,14 @@ We are thrilled to invite new members to the lab. When joining the lab, you shou
 4. Join Slack channels related to the projects you will be working on and read recent correspondence in these channels. Configure your Slack notifications in these channels.
 5. Create a GitHub account, and send Lindsay your GitHub handle. 
 6. Once you are added to our GitHub organization, navigate [here](https://github.com/Critical-Data-Analysis-Group/on-boarding/tree/main/setting-up-r-environment), and follow the instructions for setting up your R environment. 
-7. *coming soon* Ask Lindsay to be added to the shared Google Drive. Once added, review the Drive Organization file in the top-level folder. 
+7. Ask Lindsay to be added to the shared Google Drive. Once added, review the Drive Organization file in the top-level folder. 
 8. *coming soon* Read the project summary document associated with the project that you will be contributing to in our Google Drive. 
 
 ### Faculty Responsibilities
 
 > This section draws heavily from the [Carceral Ecologies Lab Book](https://github.com/Carceral-Ecologies/lab_book) and the [Aly Lab Manual](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf)
-As the director of the Data Ethnography and Advocacy Lab, I commit to:
+
+As the director of the Data Ethnography and Advocacy Lab, Lindsay commits to:
 
 * Support you (academically, intellectually, emotionally, financially)
 * Provide timely feedback on project ideas, data analysis, writing, and presentations
@@ -67,6 +68,7 @@ As the director of the Data Ethnography and Advocacy Lab, I commit to:
 ### Student Researcher Responsibilities
 
 > This section draws heavily from the [Carceral Ecologies Lab Book](https://github.com/Carceral-Ecologies/lab_book) and the [CLEAR Lab Book](https://civiclaboratory.nl/clear-lab-book/). 
+
 As a student researcher, you will be expected to:
 
 * *Take care of your physical and mental well-being first.* If you are sick or burnt out, please stay home. If possible, let us know ahead of time that you need to step back. The [Schacht Center](https://www.smith.edu/student-life/health-wellness) has a number of resources available to help navigate distressing times. 
@@ -125,7 +127,7 @@ Note-taking will be a shared rotating responsibility. We will maintain a spreads
 
 ### Exiting the Lab
 
-*Coming soon...*
+We understand and respect that you may need to step away from your position in the lab to prioritize attention elsewhere. As advocates for your success, we also celebrate when new opportunities arise! If you need to step away from your position, you should reach out to Lindsay as soon as possible. We will set up a meeting to discuss how you should document the state of your work and to complete a short exit interview. 
 
 ## Communication
 
@@ -151,7 +153,6 @@ The general format for all lab meetings is as follow:
 
 * Opening: Lab manager disseminates link to meeting notes document and takes attendance. Note-taker is determined by referencing the rotating note-taker schedule in the Drive.
 * Group check-in: Lab manager asks the group check-in question: *Where is your head and your heart today?* Everyone has an opportunity to respond (round robin style). Members may pass if they choose. 
-* New member: New members introduce themselves to the group, offering their name and pronouns, their academic and research interests, and what inspires them to engage in justice and integrity-focused data work. 
 * Project updates: For each project, group members detail what was accomplished since the last meeting, what they plan to accomplish in the coming week, and what is getting in the way of being able to accomplish those tasks. Everyone has an opportunity to ask questions.
 * Lab check-in: Group members have an opportunity to ask questions or voice concerns about any aspects of lab operations.
 * Summary: We close each meeting with the note-taker summarizing to-do list items for the next week. 

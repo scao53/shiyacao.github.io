@@ -10,6 +10,10 @@ author_profile: true
 
 ## Lab Members
 
+### Juniper Huang
+
+### Naomi Liftman
+
 
 ## Lab Book
 
