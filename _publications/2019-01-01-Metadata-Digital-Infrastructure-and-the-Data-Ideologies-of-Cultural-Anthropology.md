@@ -4,6 +4,6 @@ collection: publications
 permalink: /publication/2019-01-01-Metadata-Digital-Infrastructure-and-the-Data-Ideologies-of-Cultural-Anthropology
 date: 2019-01-01
 venue: 'In Anthropological Data in the Digital Age: New Possibilities-New Challenges'
-citation: '&amp;quot;&amp;quot;<i class=&quot;fa fa-fw fa-book-open&quot; aria-hidden=&quot;true&quot;></i> Lindsay Poirier,  Kim Fortun,  Brandon Costelloe-Kuehn,  Mike Fortun. 2019. &quot;Metadata, Digital Infrastructure, and the Data Ideologies of Cultural Anthropology.&quot; <i>In Anthropological Data in the Digital Age: New Possibilities-New Challenges</i>, edited by  Jerome Crowder,  Mike Fortun,  Rachel Besara,  Lindsay Poirier. Palgrave Macillan.'
+citation: ' Lindsay Poirier,  Kim Fortun,  Brandon Costelloe-Kuehn,  Mike Fortun. 2019. &quot;Metadata, Digital Infrastructure, and the Data Ideologies of Cultural Anthropology.&quot; <i>In Anthropological Data in the Digital Age: New Possibilities-New Challenges</i>, edited by  Jerome Crowder,  Mike Fortun,  Rachel Besara,  Lindsay Poirier. Palgrave Macillan.'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Metadata,+Digital+Infrastructure,+and+the+Data+Ideologies+of+Cultural+Anthropology){:target="_blank"} for full citation
