@@ -13,7 +13,7 @@ The Data Ethnography and Advocacy Lab is a multi-disciplinary research group inv
 
 ### Juniper Huang
 
-<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;" markdown="1">
+<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px; border-radius: 50%;" markdown="1">
 
 ![Headshot of Juniper Huang](../images/juniper.jpg "Juniper Huang")
 
@@ -23,7 +23,7 @@ My name is Juniper Huang, and I have been a part of this research since the Fall
 
 ### Naomi Liftman
 
-<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;" markdown="1">
+<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px; border-radius: 50%;" markdown="1">
 
 ![Headshot of Naomi Liftman](../images/naomi.PNG "Naomi Liftman")
 
