@@ -14,7 +14,9 @@ The Data Ethnography and Advocacy Lab is a multi-disciplinary research group inv
 ### Juniper Huang
 
 <p style="max-width: 20%; float: left;">
+
 ![Headshot of Juniper Huang](../images/juniper.jpg)
+
 </p>
 
 My name is Juniper Huang, and I have been a part of this research since the Fall of 2021 as a Critical Data Analyst. I am currently a second-year Statistical Data Science major at Smith College. I am passionate about metadata and the many different factors that affect a dataset. Outside of research, I am the Head of New Students for Talbot House, I am part of the Pan-Asian in Action e-board, and I am an active member of the Statistical Data Science Coalition of Color.
@@ -22,7 +24,9 @@ My name is Juniper Huang, and I have been a part of this research since the Fall
 ### Naomi Liftman
 
 <p style="max-width: 20%; float: left;">
+
 ![Headshot of Naomi Liftman](../images/naomi.PNG)
+
 </p>
 
 Hi, I’m Naomi Liftman. I was born in California but grew up in Boston for most of my life. I’m a Statistical Data Science (SDS) major at Smith College with a minor in Women and Gender studies and am currently heading into my senior year. Outside of school I am the captain of the Ultimate Frisbee team, and am the Vice President of my house. Overall, my passion lies with SDS, and I love working with data whether its on the production, analysis, or ethnographic side!
@@ -34,7 +38,7 @@ Hi, I’m Naomi Liftman. I was born in California but grew up in Boston for most
 * Emarie de la Nuez (Spring '22)
 * Quinn White (Spring '22)
 
-![Image of five students in lab Spring '22](../images/spring22-lab-members.PNG "L-R: Nicole Tresvalles, Juniper Huang, Sena Amuzu, Lindsay Poirier, Emarie de la Nuez, Quinn White")
+![Image of five students in lab Spring '22](../images/spring22-lab-members.jpg "L-R: Nicole Tresvalles, Juniper Huang, Sena Amuzu, Lindsay Poirier, Emarie de la Nuez, Quinn White")
 
 ## Blog
 
