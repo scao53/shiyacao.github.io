@@ -47,9 +47,10 @@ We are thrilled to invite new members to the lab. When joining the lab, you shou
 3. Join the #onboarding Slack channel, and follow the instructions in Lindsay's October 4, 2021 post. 
 4. Join Slack channels related to the projects you will be working on and read recent correspondence in these channels. Configure your Slack notifications in these channels.
 5. Create a GitHub account, and send Lindsay your GitHub handle. 
-6. Once you are added to our GitHub organization, navigate [here](https://github.com/Critical-Data-Analysis-Group/on-boarding/tree/main/setting-up-r-environment), and follow the instructions for setting up your R environment. 
-7. Ask Lindsay to be added to the shared Google Drive. Once added, review the Drive Organization file in the top-level folder. 
-8. *coming soon* Read the project summary document associated with the project that you will be contributing to in our Google Drive. 
+6. Create a Zotero account [here](https://www.zotero.org/user/register/) and install both Zotero and Zotero Connector here [here](https://www.zotero.org/download/). Send Lindsay or the Lead Mentor your Zotero username so they can add you to our shared Zotero account. Then watch [this video](https://www.youtube.com/watch?v=JG7Uq_JFDzE), introducing Zotero.
+7. Ask Lindsay to be added to the shared Google Drive. See if you can find your work folder for this semester.  
+8. Sign-up for a Dedoose account [here](https://www.dedoose.com/signup). Then install Dedoose Desktop Application [here](https://www.dedoose.com/resources/articledetail/dedoose-desktop-app). Ask Lindsay or the Lead Mentor to add you to our shared Dedoose project.
+9. *coming soon* Read the project summary document associated with the project that you will be contributing to in our Google Drive. 
 
 ### Faculty Responsibilities
 
