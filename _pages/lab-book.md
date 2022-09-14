@@ -146,7 +146,7 @@ Since Slack is our primary means of communication, you should check Slack regula
 
 ### GitHub
 
-When you join the lab, you will be added to our [GitHub organization](https://github.com/orgs/Data-Ethnography-and-Advocacy-Lab/). We will keep most lab protocols, documents, and code in repositories under this organization. There are series of repository templates available for creating new GitHub repositories. We've created these templates to ensure consistency across our folder structures and completeness in the contents of our README documents. Please be sure to select the appropriate template before creating a new repo. Reach out to Lindsay if you are unsure of which template is most appropriate.
+When you join the lab, you will be added to our [GitHub organization](https://github.com/orgs/Data-Ethnography-and-Advocacy-Lab/). There are series of repository templates available for creating new GitHub repositories. We've created these templates to ensure consistency across our folder structures and completeness in the contents of our README documents. Please be sure to select the appropriate template before creating a new repo. Reach out to Lindsay if you are unsure of which template is most appropriate.
 
 ## Lab Meeting Protocols
 
@@ -169,12 +169,13 @@ All lab meeting agendas and notes will be stored in one running Google Drive doc
 We maintain a shared Google Drive for all shared lab documents and files that are not hosted in GitHub repositories. This may include:
 
 * lab meeting agendas and meeting notes
+* lab planning documents
 * datasets that are too large for GitHub storage
 * drafts of collaboratively edited manuscripts, abstracts, or proposals
 * data inventories and quality assurance checklists
+* spreadsheets for lab contacts 
+* tutorials
 * etc. 
-
-Be sure to reference the Drive Organization file for guidance on where to store files in the Google Drive. 
 
 ### Code and Data Documentation
 
