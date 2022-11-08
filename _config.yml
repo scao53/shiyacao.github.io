@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lindsay Poirier"
+title                    : "Shiya Cao"
 title_separator          : "-"
-name                     : &name "Lindsay Poirier"
+name                     : &name "Shiya Cao"
 description              : &description "personal description"
-url                      : https://lindsaypoirier.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://scao53.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lindsaypoirier/lindsaypoirier.github.io"
+repository               : "scao53/dial.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lindsay Poirier"
+  name             : "Shiya Cao"
   avatar           : "profile.png"
-  bio              : "Cultural anthropologist of data cultures; Assistant Professor of Statistics and Data Sciences at Smith College"
+  bio              : "Disability inclusion researcher; Assistant Professor of Statistical and Data Sciences at Smith College"
   location         : "Northampton, MA"
   employer         : "Smith College"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=iUp2cX0AAAAJ&hl=en"
-  email            : "lpoirier@smith.edu"
+  googlescholar    : 
+  email            : "scao53@smith.edu"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lindsaypoirier"
+  github           : "scao53"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-9307-5834"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "lindsaypoirier"
+  twitter          : "ShiyaCao"
   vine             :
   weibo            :
   xing             :
