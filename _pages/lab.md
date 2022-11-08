@@ -17,25 +17,15 @@ Further, the protocols are continuously being collectively (re)authored as new m
 
 ### Inclusion
 
-In this lab, we strive to foster an inclusive research community. We respect and utilize each lab member's strengthes to get the job done. Our work is collaborative not competitive. We learn from each other, help each other out, and step up for others when unexpected circumstances come up. **We expect that you are able to ask for help when you need it, and to problem solve.** It is my goal for everyone to learn and grow in this lab. We encourage and listen to each other's ideas, provide constructive feedback, and offer flexibility/wiggle room. We celebrate each other’s successes and hype each other up in moments when we feel discouraged. 
-
-care about each other, not just in our work lives, but also as individuals that have lives outside of this work. We encourage our collaborators to prioritize their personal health and well-being before our research, and we respect each other’s personal boundaries. We strive to embody kindness in all of our interactions with each other, and attempt to show up for each other in moments of distress. We honor each other’s identities and backgrounds. 
-
-### Community
-
-We show respect for each other’s time by setting clear expectations on project timelines, roles, progress, and issues. We assess progress towards goals often, adjust our expectations when necessary, and  . We make an effort to coordinate our work with an understanding that we all have unique work styles. We consistently keep lines of communication open, especially when things are not going as planned or when conflicts arise. We work to develop trust in each other by following through on commitments and showing respect for each other’s ideas - both in moments when we are in agreement and in moments when we are offering critique. We offer mentorship in cases when we have specialized knowledge to share.  We strive for consensus in our decision-making and understand that this, at times, requires compromise. 
-
-### Grit
-
-In this group, we work hard toward our goals. We are proactive problem-solvers, taking initiative in order to persevere as challenges arise. We set the intention to follow through on our commitments. We recognize the significance of diverse kinds of labor - from the most tedious and monotonous to the most innovative and creative. 
-
-### Purpose
-
-In this group, we work towards a collective vision of advancing social and environmental equity, justice, and accountability through improvements to data infrastructure. We are transparent about the social and political aims of our work to newcomers and in public presentations of the work. We seek out opportunities to advocate on behalf of interventions that align with our collective vision. We prioritize our collective vision when making decisions about who will be invited to participate in the work, which groups we will seek input from, what resources we will accept/leverage to support the work, and through what channels the work will be disseminated. 
+In this lab, we strive to foster an inclusive research community. We respect and utilize each lab member's strengthes to get the job done. Our work is collaborative not competitive. We learn from each other, help each other out, and step up for others when unexpected circumstances come up. **We expect that you are able to ask for help when you need it, and to problem solve.** It is my goal for everyone to learn and grow in this lab. We encourage and listen to each other's ideas, provide constructive feedback, and offer flexibility/wiggle room. We celebrate each other’s successes and hype each other up in moments when we feel discouraged. We espcially learn things about disability etiquette.
 
 ### Integrity
 
-In this group, we are committed to presenting our work with honesty and context. We value reflexivity in our research practice. We acknowledge what we don’t know, can’t know (due to our unique positionality), or have yet to learn. We listen carefully, especially to perspectives held by those with cultural identities we do not share, and are willing to have assumptions challenged. We admit mistakes, learn from them, and then move on from them.
+In this lab, we are committed to ensuring research integrity, including data collection and analysis, literature review, writing, authorship, and presentation, etc. We take a hard line on research misconduct, including fabrication, falsification, or plagiarismWe, etc. We don't make assumptions; if we don't know, we ask questions. We acknowledge what we don’t know, can’t know (due to our unique positionality), or have yet to learn. We value reflexivity in our research practice. Our work is building a more inclusive and equitable society; this moral goal should lead us to pursue our research practice with integrity and act as a person with honesty. 
+
+### Caring
+
+In this lab, we care about each other, not just in our work lives, but also as individuals that have lives outside of this work. It is my position that attending to your physical and mental health and well-being should be a top priority. We strive to embody kindness in all of our interactions with each other, show appreciations, and check in with colleagues before starting collaborative work.   
 
 ## Roles and Responsibilities
 
