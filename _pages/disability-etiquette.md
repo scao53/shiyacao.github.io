@@ -5,9 +5,9 @@ excerpt: "Disability Etiquette"
 author_profile: true
 ---
 
-<div style="max-width: 100%; margin-right: 10px; margin-bottom:10px;">
+<div style="max-width: 20%; margin-right: 10px; margin-bottom:10px;">
 
-<img src="../images/disability-statistics.png" alt="Disability Statistics As of 2022" style="border-radius: 50%;">
+<img src="../images/disability-statistics.png" alt="Disability Statistics As of 2022">
 
 </div>
 
