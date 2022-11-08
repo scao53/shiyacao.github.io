@@ -11,7 +11,7 @@ Welcome to the Disability Inclusion Analytics Lab Book! Here we outline the valu
 
 These protocols are inspired from the work of several groups that inspire us - in particular the [Aly Lab Manual](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf), the [Carceral Ecologies Lab Book](https://github.com/Carceral-Ecologies/lab_book), the [CLEAR Lab Book](https://civiclaboratory.nl/clear-lab-book/), and the [DEAL Lab Book](https://lindsaypoirier.github.io/lab-book/).
 
-Further, the protocols are continuously being collectively (re)authored as new members join the lab. 
+Further, the protocols are continuously being collectively developed as new members join the lab. 
 
 ## Lab Values
 
