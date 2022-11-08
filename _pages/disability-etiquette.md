@@ -1,5 +1,5 @@
 ---
-permalink: /disability-etiquette/
+permalink: /Disability-Etiquette/
 title: "Disability Etiquette"
 excerpt: "Disability Etiquette"
 author_profile: true
