@@ -78,11 +78,11 @@ Slack will be the primary means of lab communication. [Here](https://app.slack.c
 * #appreciations: celebrate lab member accomplishments or express gratitude for a lab member's work
 * #random: non-work related conversations
 
-Since Slack is our primary means of communication, you should check Slack regularly. You may wish to install the Slack Desktop application to help keep track of Slack messages. You can also [configure Slack](https://slack.com/help/articles/201355156-Configure-your-Slack-notifications#) to notify you when messages come through on specific channels. You are not expected to respond to Slack messages on evenings and weekends.
+Since Slack is our primary means of communication, you should check Slack regularly. You may wish to install the Slack Desktop application to help keep track of Slack messages. You can also [configure Slack](https://slack.com/help/articles/201355156-Configure-your-Slack-notifications#){target="_blank"} to notify you when messages come through on specific channels. You are not expected to respond to Slack messages on evenings and weekends.
 
 ### GitHub
 
-When you join the lab, you will be added to our [GitHub organization](https://github.com/scao53/disability_inclusion_analytics_lab). We use GitHub to ensure reproducible analysis.
+When you join the lab, you will be added to our [GitHub organization](https://github.com/disability-inclusion-analytics-lab){target="_blank"}. We use GitHub to ensure reproducible analysis.
 
 ### Google Drive
 
