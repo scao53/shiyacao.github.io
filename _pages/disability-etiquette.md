@@ -25,7 +25,7 @@ We recognize that there is still a debate in the disability community regarding 
 * Call a person by their first name only when you extend this familiarity to everyone present.
 * Don’t patronize people who use wheelchairs by patting them on the head.
 * Don’t be embarrassed if you happen to use common expressions that seem to relate to the person’s disability such as “See you later” or “I’ve got to run.”
-* When planning events involving disabled people, consider their needs ahead of time. If there’s a potential barrier, like a flight of stairs, narrow doors, or an inaccessible restroom, reach out and discuss the situation with them in advance.
+* When planning events involving disabled people, consider their needs ahead of time. If there’s a potential barrier, like a flight of stairs, narrow doors, an inaccessible restroom, or noise exposure, reach out and discuss the situation with them in advance.
 * If you have a question about access, always ask it and don’t assume you already know the answer.
 
 ### When you're with a wheelchair user:
