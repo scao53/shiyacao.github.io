@@ -78,11 +78,11 @@ Slack will be the primary means of lab communication. [Here](https://app.slack.c
 * #appreciations: celebrate lab member accomplishments or express gratitude for a lab member's work
 * #random: non-work related conversations
 
-Since Slack is our primary means of communication, you should check Slack regularly. You may wish to install the Slack Desktop application to help keep track of Slack messages. You can also [configure Slack](https://slack.com/help/articles/201355156-Configure-your-Slack-notifications#){target="_blank"} to notify you when messages come through on specific channels. You are not expected to respond to Slack messages on evenings and weekends.
+Since Slack is our primary means of communication, you should check Slack regularly. You may wish to install the Slack Desktop application to help keep track of Slack messages. You can also [configure Slack](https://slack.com/help/articles/201355156-Configure-your-Slack-notifications#) to notify you when messages come through on specific channels. You are not expected to respond to Slack messages on evenings and weekends.
 
 ### GitHub
 
-When you join the lab, you will be added to our [GitHub organization](https://github.com/disability-inclusion-analytics-lab){target="_blank"}. We use GitHub to ensure reproducible analysis.
+When you join the lab, you will be added to our [GitHub organization](https://github.com/disability-inclusion-analytics-lab). We use GitHub to ensure reproducible analysis.
 
 ### Google Drive
 
@@ -112,7 +112,7 @@ As a member of DIAL we have the right and responsibility to point out and stop b
 
 **All lab members are expected to adhere to this Code of Conduct in all settings for this lab: lab meetings, over Slack, GitHub, and Google Drive, both online and off.**
 
-This Code of Conduct is adapted from the [Contributor Covenant](http://contributor-covenant.org){target="_blank"}, version 1.0.0, available [here](http://contributor-covenant.org/version/1/0/0/){target="_blank"}.
+This Code of Conduct is adapted from the [Contributor Covenant](http://contributor-covenant.org), version 1.0.0, available [here](http://contributor-covenant.org/version/1/0/0/).
 
 ## References
 
