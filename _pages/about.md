@@ -20,7 +20,7 @@ I teach courses at Smith College that introduce data science concepts, methods, 
 
 <div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
 
-<img src="../images/shiyacao.jpg" alt="Shiya Cao" style="border-radius: 50%;">
+<img src="../images/E4BA61C0-F3E2-4D5A-B108-9591941184E8.jpg" alt="Shiya Cao" style="border-radius: 50%;">
 
 </div>
 
