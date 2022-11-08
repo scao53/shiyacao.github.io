@@ -17,7 +17,7 @@ Further, the protocols are continuously being collectively (re)authored as new m
 
 ### Inclusion
 
-In this lab, we strive to foster an inclusive research community. We respect and utilize each lab member's strengthes to get the job done. Our work is collaborative not competitive. We learn from each other, help each other out, and step up for others when unexpected circumstances come up. We expect that you are able to ask for help when you need it, and to problem solve. It is my goal for everyone to learn and grow in this lab. We encourage and listen to each other's ideas, provide constructive feedback, and offer flexibility/wiggle room. We celebrate each other’s successes and hype each other up in moments when we feel discouraged. We espcially learn things about disability etiquette.
+In this lab, we strive to foster an inclusive research community. We respect and utilize each lab member's strengthes to get the job done. Our work is collaborative not competitive. We learn from each other, help each other out, and step up for others when unexpected circumstances come up. We expect that you are able to ask for help when you need it, and to problem solve. It is my goal for everyone to learn and grow in this lab. We encourage and listen to each other's ideas, provide constructive feedback, and offer flexibility/wiggle room. We celebrate each other’s successes and hype each other up in moments when we feel discouraged. We espcially learn things about [disability etiquette](/disability-etiquette/).
 
 ### Integrity
 
