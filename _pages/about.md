@@ -20,7 +20,7 @@ I teach courses at Smith College that introduce data science concepts, methods, 
 
 <div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
 
-<img src="../images/E4BA61C0-F3E2-4D5A-B108-9591941184E8.jpg" alt="Shiya Cao" style="border-radius: 50%;">
+<img src="images/E4BA61C0-F3E2-4D5A-B108-9591941184E8.jpg" alt="Shiya Cao" style="border-radius: 50%;">
 
 </div>
 
@@ -30,7 +30,7 @@ My name is Shiya Cao, the founder of the DIAl Lab. I've been working on disabili
 
 <div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
 
-<img src="../images/linh_pham.jpg" alt="Shiya Cao" style="border-radius: 50%;">
+<img src="images/linh_pham.jpg" alt="Linh Pham" style="border-radius: 50%;">
 
 </div>
 
