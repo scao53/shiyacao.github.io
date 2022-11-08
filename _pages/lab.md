@@ -50,7 +50,7 @@ As the director of the DIAL Lab, Prof. Shiya Cao commits to:
 * Provide timely feedback on project ideas, data collection and analysis, literature review, writing, and presentations.
 * Review and approve timesheets on a timely basis.
 * Support your career development (e.g. helping you network with people in the field, introducing you to infrastructures and workflows that may be relevant to your future career, writing recommendation letters, and inviting you to attend conferences when finances permit).
-* Ensure that you are acknowledged for your contributions in all presentations and publications of our work.
+* Ensure that you are properly acknowledged for your contributions in all presentations and publications of our work.
 * Encourage you to prioritize your physical and emotional well-being before other obligations.
 
 ### Student Researcher Responsibilities
