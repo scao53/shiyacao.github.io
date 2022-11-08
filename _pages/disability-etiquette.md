@@ -5,7 +5,7 @@ excerpt: "Disability Etiquette"
 author_profile: true
 ---
 
-<div style="max-width: 20%; margin-right: 10px; margin-bottom:10px;">
+<div style="max-width: 80%; margin-right: 10px; margin-bottom:10px;">
 
 <img src="../images/disability-statistics.png" alt="Disability Statistics As of 2022">
 
@@ -47,6 +47,28 @@ We recognize that there is still a debate in the disability community regarding 
 * **Don’t** shout.
 * **Do** look directly at the person and speak clearly and expressively to establish if the person can read your lips. Remember, not everyone who is deaf or hard-of-hearing can lip-read. Those who do will rely on facial expressions and other body language to help understand.
 * Show consideration by facing a light source and keeping your hands and food away from your mouth when speaking.
+
+## Related Books
+
+### Disability Visibility
+
+<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
+
+<img src="../images/disability-visbility.jpg" alt="Disability Visbility" style="border-radius: 50%;">
+
+</div>
+
+"Activist Alice Wong brings together this urgent, galvanizing collection of contemporary essays by disabled people... This anthology gives a glimpse into the rich complexity of the disabled experience, highlighting the passions, talents, and everyday lives of this community. It invites readers to question their own understandings. It celebrates and documents disability culture in the now. It looks to the future and the past with hope and love."
+
+### Being Heumann: An Unrepentant Memoir of a Disability Rights Activist
+
+<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
+
+<img src="../images/being-heumann.jpg" alt="Being Heumann" style="border-radius: 50%;">
+
+</div>
+
+"A story of fighting to belong in a world that wasn’t built for all of us and of one woman’s activism—from the streets of Brooklyn and San Francisco to inside the halls of Washington—Being Heumann recounts Judy Heumann’s lifelong battle to achieve respect, acceptance, and inclusion in society. Paralyzed from polio at eighteen months, Judy’s struggle for equality began early in life. From fighting to attend grade school after being described as a “fire hazard” to later winning a lawsuit against the New York City school system for denying her a teacher’s license because of her paralysis, Judy’s actions set a precedent that fundamentally improved rights for disabled people... Candid, intimate, and irreverent, Judy Heumann’s memoir about resistance to exclusion invites readers to imagine and make real a world in which we all belong."
 
 ## References
 
