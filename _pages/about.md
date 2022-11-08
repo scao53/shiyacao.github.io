@@ -18,7 +18,7 @@ I've published multiple papers in high-ranking journals and conferences includin
 
 <div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
 
-<img src="../images/SCao_small.png" alt="Shiya Cao" style="border-radius: 50%;">
+<img src="../images/Shiya_Cao_51.jpg" alt="Shiya Cao" style="border-radius: 50%;">
 
 </div>
 
