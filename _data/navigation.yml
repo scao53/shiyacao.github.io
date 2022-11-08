@@ -4,10 +4,7 @@ main:
     url: /lab-book/
     
   - title: "Research"
-    url: /research/
-
-  - title: "Datasets"
-    url: /datasets/    
+    url: /research/  
 
   - title: "Disability Etiquette"
     url: /disability-eqiquette/
