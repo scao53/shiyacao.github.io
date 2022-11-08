@@ -50,7 +50,7 @@ We recognize that there is still a debate in the disability community regarding 
 
 ## Related Books
 
-### Disability Visibility
+### [Disability Visibility](https://www.amazon.com/Disability-Visibility-First-Person-Stories-Twenty-First/dp/1984899422)
 
 <div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
 
@@ -60,7 +60,7 @@ We recognize that there is still a debate in the disability community regarding 
 
 "Activist Alice Wong brings together this urgent, galvanizing collection of contemporary essays by disabled people... This anthology gives a glimpse into the rich complexity of the disabled experience, highlighting the passions, talents, and everyday lives of this community. It invites readers to question their own understandings. It celebrates and documents disability culture in the now. It looks to the future and the past with hope and love."
 
-### Being Heumann: An Unrepentant Memoir of a Disability Rights Activist
+### [Being Heumann: An Unrepentant Memoir of a Disability Rights Activist](https://www.amazon.com/Being-Heumann-Unrepentant-Disability-Activist/dp/0807019291)
 
 <div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
 
