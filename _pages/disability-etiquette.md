@@ -17,7 +17,7 @@ We recognize that there is still a debate in the disability community regarding 
 
 ## Basic Principles of Disability Etiquette
 
-> This section draws from the [Disability Etiquette](https://www.easterseals.com/support-and-education/facts-about-disability/disability-etiquette.html) and [Invisible Disability and Etiquette](https://www.disabled-world.com/disability/types/invisible/manners.php#:~:text=If%20you%20are%20aware%20that,a%20form%20of%20invisible%20disability). 
+> This section draws from [Disability Etiquette](https://www.easterseals.com/support-and-education/facts-about-disability/disability-etiquette.html) and [Invisible Disability and Etiquette](https://www.disabled-world.com/disability/types/invisible/manners.php#:~:text=If%20you%20are%20aware%20that,a%20form%20of%20invisible%20disability). 
 
 * If you would like to help a disabled person, ask if they need it, and listen to any instructions the person may want to give.
 * Be considerate of the extra time it might take a disabled person to get things done or said. Let the person set the pace in walking and talking.
