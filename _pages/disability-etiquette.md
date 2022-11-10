@@ -47,7 +47,8 @@ We recognize that there is still a debate in the disability community regarding 
 ### When you're with people who are deaf or hard-of-hearing:
 
 * **Don’t** shout.
-* **Do** look directly at the person and speak clearly and expressively to establish if the person can read your lips. Remember, not everyone who is deaf or hard-of-hearing can lip-read. Those who do will rely on facial expressions and other body language to help understand. Talk directly to the person, even if the person has a sign language interpreter with them.
+* **Do** look directly at the person and speak clearly and expressively to establish if the person can read your lips. Remember, not everyone who is deaf or hard-of-hearing can lip-read. Those who do will rely on facial expressions and other body language to help understand. 
+* Talk directly to the person, even if the person has a sign language interpreter with them.
 * Show consideration by facing a light source and keeping your hands and food away from your mouth when speaking.
 
 ### Invisible disabilities:
