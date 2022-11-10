@@ -34,7 +34,7 @@ We recognize that there is still a debate in the disability community regarding 
 * Ask permission before touching someone’s wheelchair.
 * **Don’t** patronize people who use wheelchairs by patting them on the head.
 * **Do** place yourself at the wheelchair user’s eye level to spare both of you a stiff neck if you’re talking for more than a few minutes.
-* **Do** consider distance, weather conditions, and physical obstacles such as stairs, curbs and steep hills when giving directions.
+* **Do** consider distance, weather conditions, and physical obstacles such as stairs, curbs, and steep hills when giving directions.
 
 ### When you're with people who are blind or have low vision:
 
