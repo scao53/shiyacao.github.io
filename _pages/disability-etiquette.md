@@ -17,22 +17,23 @@ We recognize that there is still a debate in the disability community regarding 
 
 ## Basic Principles of Disability Etiquette
 
-> This section draws from the [Disability Etiquette](https://www.easterseals.com/support-and-education/facts-about-disability/disability-etiquette.html). 
+> This section draws from the [Disability Etiquette](https://www.easterseals.com/support-and-education/facts-about-disability/disability-etiquette.html) and [Invisible Disability and Etiquette](https://www.disabled-world.com/disability/types/invisible/manners.php#:~:text=If%20you%20are%20aware%20that,a%20form%20of%20invisible%20disability). 
 
 * If you would like to help a disabled person, ask if they need it, and listen to any instructions the person may want to give.
 * Be considerate of the extra time it might take a disabled person to get things done or said. Let the person set the pace in walking and talking.
 * Treat adults accordingly.
 * Call a person by their first name only when you extend this familiarity to everyone present.
-* Don’t patronize people who use wheelchairs by patting them on the head.
 * Don’t be embarrassed if you happen to use common expressions that seem to relate to the person’s disability such as “See you later” or “I’ve got to run.”
 * When planning events involving disabled people, consider their needs ahead of time. If there’s a potential barrier, like a flight of stairs, narrow doors, an inaccessible restroom, or noise exposure, reach out and discuss the situation with them in advance.
 * If you have a question about access, always ask it and don’t assume you already know the answer.
+* You may encounter a person who experiences a form of disability that affects their speech. If you do, be patient and pay attention while waiting for the person to complete a thought or word; do not finish it for them. If you do not understand what the person has said, ask them to repeat it. Tell them what you did hear and find out if it is close to what they are saying. The person may use a technique or device to augment or enhance their speech; be prepared and do not be afraid to communicate with someone who uses a computer, pen and paper, or an alphabet board to communicate.
 
 ### When you're with a wheelchair user:
 
 * **Don’t** lean or hang on someone’s wheelchair.
 * **Do** remember that wheelchairs are an extension of personal space.
 * Ask permission before touching someone’s wheelchair.
+* **Don’t** patronize people who use wheelchairs by patting them on the head.
 * **Do** place yourself at the wheelchair user’s eye level to spare both of you a stiff neck if you’re talking for more than a few minutes.
 * **Do** consider distance, weather conditions and physical obstacles such as stairs, curbs and steep hills when giving directions.
 
@@ -41,12 +42,22 @@ We recognize that there is still a debate in the disability community regarding 
 * **Don’t** grab a person’s arm in order to guide them.
 * **Do** allow the person to take your arm. This will help you to guide, rather than propel or lead, the person.
 * **Do** use specifics such as “left a hundred feet” or “right two yards.”
+* **Don't** leave them without excusing yourself first.
+* If the person has a guide dog, **don't** distract the dog; it is always working and is not a pet.
 
 ### When you're with people who are deaf or hard-of-hearing:
 
 * **Don’t** shout.
-* **Do** look directly at the person and speak clearly and expressively to establish if the person can read your lips. Remember, not everyone who is deaf or hard-of-hearing can lip-read. Those who do will rely on facial expressions and other body language to help understand.
+* **Do** look directly at the person and speak clearly and expressively to establish if the person can read your lips. Remember, not everyone who is deaf or hard-of-hearing can lip-read. Those who do will rely on facial expressions and other body language to help understand. Talk directly to the person, even if the person has a sign language interpreter with them.
 * Show consideration by facing a light source and keeping your hands and food away from your mouth when speaking.
+
+### Invisible disabilities:
+
+* When you plan an event, make sure that accessibility needs are directed to a real person; it provides the opportunity for people who have invisible disabilities to reach out and not feel as if they are imposing.
+* If you are aware that a person has a form of invisible disability, the best tactic may be to simply speak with the person and ask them what they are able to do and what they cannot do. 
+* In a group of people, always assume there is someone who experiences a form of invisible disability. Assume there is a person in any group of people who experiences a form of hearing loss. When you speak to an audience, face your audience.
+* If a person says they are unable to do something, do not attempt to somehow coax or convince them to try anyway. Instead, ask the person what you can do to make their participation possible and invite them to participate to the degree they are able to.
+* Never judge another person's limitations or pain. Instead, accept as truth the things a person who has invisible disabilities tells you.
 
 ## Related Books
 
