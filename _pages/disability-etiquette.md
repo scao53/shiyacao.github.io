@@ -26,7 +26,6 @@ We recognize that there is still a debate in the disability community regarding 
 * Don’t be embarrassed if you happen to use common expressions that seem to relate to the person’s disability such as “See you later” or “I’ve got to run.”
 * When planning events involving disabled people, consider their needs ahead of time. If there’s a potential barrier, like a flight of stairs, narrow doors, an inaccessible restroom, or noise exposure, reach out and discuss the situation with them in advance.
 * If you have a question about access, always ask it and don’t assume you already know the answer.
-* You may encounter a person who experiences a form of disability that affects their speech. If you do, be patient and pay attention while waiting for the person to complete a thought or word; do not finish it for them. If you do not understand what the person has said, ask them to repeat it. Tell them what you did hear and find out if it is close to what they are saying. The person may use a technique or device to augment or enhance their speech; be prepared and do not be afraid to communicate with someone who uses a computer, pen and paper, or an alphabet board to communicate.
 
 ### When you're with a wheelchair user:
 
