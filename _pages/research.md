@@ -15,6 +15,10 @@ Cao, S., & Loiacono, E. (2021). Perceptions of Web accessibility guidelines by s
 
 ## Conference Presentations
 
+* indicates collaboration when this co-author was a student.
+
+Xu*, V., Cao, S. (2022). Examining the dentist-industry financial relationship in Massachusetts: An analysis of the Open Payment Datasets for Program Year 2020. *2022 NextGen Data Science Day (DSD) Conference*, Virtual.
+
 Cao, S. (2021). Information systems legitimation strategies in the non-economic values generation context. *Workshop on Information Technologies and Systems*, Virtual.
 
 Cao, S., Loiacono, E., & Annabi, H. (2020). A theoretical framework for information systems in the workplace accommodation process: A critical disability lens. *Journal of the Association for Information Systems Special Issue Paper Development Workshop*, Virtual.
