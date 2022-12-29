@@ -15,7 +15,7 @@ Cao, S., & Loiacono, E. (2021). Perceptions of Web accessibility guidelines by s
 
 ## Conference Presentations
 
-~ indicates collaboration when this co-author was a student.
+Note: Student collaborators are underlined.
 
 <u>Xu, V.</u>, Cao, S. (2022). Examining the dentist-industry financial relationship in Massachusetts: An analysis of the Open Payment Datasets for Program Year 2020. *2022 NextGen Data Science Day (DSD) Conference*, Virtual.
 
