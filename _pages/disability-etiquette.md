@@ -83,12 +83,8 @@ We recognize that there is still a debate in the disability community regarding 
 
 ### [Crip Camp](https://www.netflix.com/title/81001496)
 
-<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
-
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=XRrIs22plz0&t=1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
-
-</div>
 
 "Crip Camp starts in 1971 at Camp Jened, a summer camp in New York described as a 'loose, free-spirited camp designed for disabled teens'. Starring Larry Allison, Judith Heumann, James LeBrecht, Denise Sherer Jacobson, and Stephen Hofmann, the film focuses on those campers who turned themselves into activists for the disability rights movement and follows their fight for accessibility legislation."
 
