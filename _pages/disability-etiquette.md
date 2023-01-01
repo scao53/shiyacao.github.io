@@ -65,7 +65,7 @@ We recognize that there is still a debate in the disability community regarding 
 
 <div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
 
-<img src="../images/disability-visbility.jpg" alt="Disability Visbility" style="border-radius: 50%;">
+<img src="../images/disability-visbility_square.jpg" alt="Disability Visbility" style="border-radius: 50%;">
 
 </div>
 
