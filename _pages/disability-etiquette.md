@@ -59,7 +59,7 @@ We recognize that there is still a debate in the disability community regarding 
 * If a person says they are unable to do something, do not attempt to somehow coax or convince them to try anyway. Instead, ask the person what you can do to make their participation possible and invite them to participate to the degree they are able to.
 * Never judge another person's limitations or pain. Instead, accept as truth the things a person who has invisible disabilities tells you.
 
-## Related Books
+## Related Books & Media
 
 ### [Disability Visibility](https://www.amazon.com/Disability-Visibility-First-Person-Stories-Twenty-First/dp/1984899422)
 
@@ -75,11 +75,22 @@ We recognize that there is still a debate in the disability community regarding 
 
 <div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
 
-<img src="../images/being-heumann.jpg" alt="Being Heumann" style="border-radius: 50%;">
+<img src="../images/being-heumann_square.jpg" alt="Being Heumann" style="border-radius: 50%;">
 
 </div>
 
 "A story of fighting to belong in a world that wasn’t built for all of us and of one woman’s activism—from the streets of Brooklyn and San Francisco to inside the halls of Washington—Being Heumann recounts Judy Heumann’s lifelong battle to achieve respect, acceptance, and inclusion in society. Paralyzed from polio at eighteen months, Judy’s struggle for equality began early in life. From fighting to attend grade school after being described as a “fire hazard” to later winning a lawsuit against the New York City school system for denying her a teacher’s license because of her paralysis, Judy’s actions set a precedent that fundamentally improved rights for disabled people... Candid, intimate, and irreverent, Judy Heumann’s memoir about resistance to exclusion invites readers to imagine and make real a world in which we all belong."
+
+### [Crip Camp](https://www.netflix.com/title/81001496)
+
+<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=XRrIs22plz0&t=1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+
+</div>
+
+"Crip Camp starts in 1971 at Camp Jened, a summer camp in New York described as a 'loose, free-spirited camp designed for disabled teens'. Starring Larry Allison, Judith Heumann, James LeBrecht, Denise Sherer Jacobson, and Stephen Hofmann, the film focuses on those campers who turned themselves into activists for the disability rights movement and follows their fight for accessibility legislation."
 
 ## References
 
