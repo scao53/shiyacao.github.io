@@ -44,4 +44,14 @@ Hi, my name is Linh Pham. I am a sophomore majoring in Statistical and Data Scie
 
 Hi, my name is Zhirou Liu. I am a sophomore majoring in Statistical & Data Science and Psychology at Smith College. I am enthusiastic about combining data science with human-oriented perspectives in research.
 
+### Vicky Xu
+
+<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
+
+<img src="../images/VickyXu.jpg" alt="Zhirou Liu" style="border-radius: 50%;">
+
+</div>
+
+Hi, my name is Vicky Xu. I am a first-year student at Smith College. Though I haven’t declared my major, I’m thinking about double majoring in Statistical and Data Science and Art History. Data always amaze me! I love mining information from raw data, finding meaningful linkages based on analysis, and applying them into the real world.
+
 
