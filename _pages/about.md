@@ -34,4 +34,14 @@ My name is Shiya Cao, the founder of the DIAl Lab. I've been working on disabili
 
 Hi, my name is Linh Pham. I am a sophomore majoring in Statistical and Data Science at Smith College. Overall, my passion lies with SDS, and I love working with data whether its on the production,  or analysis side!
 
+### Zhirou Liu
+
+<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
+
+<img src="../images/ZhirouLiu.jpg" alt="Zhirou Liu" style="border-radius: 50%;">
+
+</div>
+
+Hi, my name is Zhirou Liu. I am a sophomore majoring in Statistical & Data Science and Psychology at Smith College. I am enthusiastic about combining data science with human-oriented perspectives in research.
+
 
