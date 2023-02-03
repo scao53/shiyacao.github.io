@@ -48,10 +48,20 @@ Hi, my name is Zhirou Liu. I am a sophomore majoring in Statistical & Data Scien
 
 <div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
 
-<img src="../images/VickyXu.jpg" alt="Zhirou Liu" style="border-radius: 50%;">
+<img src="../images/VickyXu.jpg" alt="Vicky Xu" style="border-radius: 50%;">
 
 </div>
 
 Hi, my name is Vicky Xu. I am a first-year student at Smith College. Though I haven’t declared my major, I’m thinking about double majoring in Statistical and Data Science and Art History. Data always amaze me! I love mining information from raw data, finding meaningful linkages based on analysis, and applying them into the real world.
+
+### Christy Yang
+
+<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
+
+<img src="../images/ChristyYang.jpg" alt="Christy Yang" style="border-radius: 50%;">
+
+</div>
+
+Hello, my name is Christy Yang. I’m a sophomore double majoring in SDS and Math. I am eager to use data and technology to drive real-world impact and to create a more inclusive society for disabled people in this lab.
 
 
