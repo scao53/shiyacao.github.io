@@ -7,7 +7,7 @@ author_profile: true
 
 ## Selected Publications
 
-Loiacono, E., & Cao, S. (2023). The chains that bind: Gender, disability, race, and IT accommodations. *In Handbook of Gender and Technology: Environment, Identity, Individual*, Trauth, E. and Quesenberry, J., eds. (252-272), Cheltenham, UK: Edward Elgar Publishing.
+Loiacono, E., & Cao, S. (2023). The chains that bind: Gender, disability, race, and IT accommodations. *In Handbook of Gender and Technology: Environment, Identity, Individual*, Trauth, E. and Quesenberry, J., eds. (252-272), Cheltenham, UK: Edward Elgar Publishing. [https://doi.org/10.4337/9781800377929.00021](https://doi.org/10.4337/9781800377929.00021)
 
 Cao, S., Strong, D., & Loiacono, E. (2022). Examining power relationships in the use of information systems to comply with laws and enable social inclusion. *Proceedings of the 55th Hawaii International Conference on System Sciences*. [https://scholarspace.manoa.hawaii.edu/items/8a3b15d1-d537-403b-9eac-08d967d562bc](https://scholarspace.manoa.hawaii.edu/items/8a3b15d1-d537-403b-9eac-08d967d562bc)
 
