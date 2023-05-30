@@ -64,4 +64,13 @@ Hi, my name is Vicky Xu. I am a first-year student at Smith College. Though I ha
 
 Hello, my name is Christy Yang. I’m a sophomore double majoring in SDS and Math. I am eager to use data and technology to drive real-world impact and to create a more inclusive society for disabled people in this lab.
 
+### Amber Liu
+
+<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
+
+<img src="../images/AmberLiu.JPG" alt="Amber Liu" style="border-radius: 50%;">
+
+</div>
+
+Hi, my name is Amber Liu. I’m a senior double majoring in Psychology and SDS. I’m interested in learning and applying data science skills in addressing real-world problems faced by the disabled population especially with a focus on education.
 
