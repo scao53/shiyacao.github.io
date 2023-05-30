@@ -73,4 +73,3 @@ Hello, my name is Christy Yang. I’m a sophomore double majoring in SDS and Mat
 </div>
 
 Hi, my name is Amber Liu. I’m a senior double majoring in Psychology and SDS. I’m interested in learning and applying data science skills in addressing real-world problems faced by the disabled population especially with a focus on education.
-
