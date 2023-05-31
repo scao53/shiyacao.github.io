@@ -73,3 +73,13 @@ Hello, my name is Christy Yang. I’m a sophomore double majoring in SDS and Mat
 </div>
 
 Hi, my name is Amber Liu. I’m a senior double majoring in Psychology and SDS. I’m interested in learning and applying data science skills in addressing real-world problems faced by the disabled population especially with a focus on education.
+
+### Nikki Lin
+
+<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
+
+<img src="../images/NikkiLin.jpg" alt="Nikki Lin" style="border-radius: 50%;">
+
+</div>
+
+Hello, my name is Nikki Lin. I am a rising junior majoring in Statistical and Data Science and minoring in psychology at Smith College. I enjoy partaking in an interdisciplinary approach to research— applying my data analysis skills to the field of social psychology and the context of real-world problems. As an idealist grounded in pragmatism, I am always striving for a more innovative and efficient solution.
