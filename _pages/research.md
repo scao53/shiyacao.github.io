@@ -7,6 +7,8 @@ author_profile: true
 
 ## Selected Publications
 
+Cao, S. (Forthcoming). Examining information systems use to facilitate the workplace accommodation process. Accepted by *Work: A Journal of Prevention, Assessment & Rehabilitation*.
+
 Loiacono, E., & Cao, S. (2023). The chains that bind: Gender, disability, race, and IT accommodations. *In Handbook of Gender and Technology: Environment, Identity, Individual*, Trauth, E. and Quesenberry, J., eds. (252-272), Cheltenham, UK: Edward Elgar Publishing. [https://doi.org/10.4337/9781800377929.00021](https://doi.org/10.4337/9781800377929.00021)
 
 Cao, S., Strong, D., & Loiacono, E. (2022). Examining power relationships in the use of information systems to comply with laws and enable social inclusion. *Proceedings of the 55th Hawaii International Conference on System Sciences*. [https://scholarspace.manoa.hawaii.edu/items/8a3b15d1-d537-403b-9eac-08d967d562bc](https://scholarspace.manoa.hawaii.edu/items/8a3b15d1-d537-403b-9eac-08d967d562bc)
@@ -16,6 +18,8 @@ Cao, S., & Loiacono, E. (2021). Perceptions of Web accessibility guidelines by s
 ## Conference Presentations
 
 Note: Student collaborators are underlined.
+
+Cao, S., <u>Yang, C.</u>, <u>Xu, V.</u>. (2023). Examining environmental barriers for disabled employees in different industries and work spaces. *2023 Women in Statistics and Data Science Conference*, Bellevue, Washington.
 
 <u>Xu, V.</u>, Cao, S. (2022). Examining the dentist-industry financial relationship in Massachusetts: An analysis of the Open Payment Datasets for Program Year 2020. *2022 NextGen Data Science Day (DSD) Conference*, Virtual.
 
