@@ -19,9 +19,9 @@ Cao, S., & Loiacono, E. (2021). Perceptions of Web accessibility guidelines by s
 
 Note: Student collaborators are underlined.
 
-Cao, S., <u>Yang, C.</u>, <u>Xu, V.</u> (2023). Examining environmental barriers for disabled employees in different industries and work spaces. *2023 Women in Statistics and Data Science Conference*, Bellevue, Washington.
+Cao, S., <u>Yang, C.</u>, & <u>Xu, V.</u> (2023). Examining environmental barriers for disabled employees in different industries and work spaces. *2023 Women in Statistics and Data Science Conference*, Bellevue, Washington.
 
-<u>Xu, V.</u>, Cao, S. (2022). Examining the dentist-industry financial relationship in Massachusetts: An analysis of the Open Payment Datasets for Program Year 2020. *2022 NextGen Data Science Day (DSD) Conference*, Virtual.
+<u>Xu, V.</u>, & Cao, S. (2022). Examining the dentist-industry financial relationship in Massachusetts: An analysis of the Open Payment Datasets for Program Year 2020. *2022 NextGen Data Science Day (DSD) Conference*, Virtual.
 
 Cao, S. (2021). Information systems legitimation strategies in the non-economic values generation context. *Workshop on Information Technologies and Systems*, Virtual.
 
