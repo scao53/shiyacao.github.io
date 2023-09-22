@@ -24,36 +24,6 @@ I've published multiple papers in high-ranking peer-reviewed journals and confer
 
 My name is Shiya Cao, the founder of the DIAl Lab. I've been working on disability inclusion research since Fall 2016 when I was a graduate student at Worcester Polytechnic Institute. I've studied accommodation management systems for disabled employees in the workplace, accessibility issues, applied statistics in disability inclusion using population surveys, the intersection of identity attributes, and the integration of disability incluison components into statistics and data science pedagogy. I am enthusiastic about the disability inclusion field and am hoping to promote this research and disability awareness in the statsitics and data science community.
 
-### Linh Pham
-
-<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
-
-<img src="../images/linh_pham.jpg" alt="Linh Pham" style="border-radius: 50%;">
-
-</div>
-
-Hi, my name is Linh Pham. I am a sophomore majoring in Statistical and Data Science at Smith College. Overall, my passion lies with SDS, and I love working with data whether its on the production,  or analysis side!
-
-### Zhirou Liu
-
-<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
-
-<img src="../images/ZhirouLiu.jpg" alt="Zhirou Liu" style="border-radius: 50%;">
-
-</div>
-
-Hi, my name is Zhirou Liu. I am a sophomore majoring in Statistical & Data Science and Psychology at Smith College. I am enthusiastic about combining data science with human-oriented perspectives in research.
-
-### Vicky Xu
-
-<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
-
-<img src="../images/VickyXu.jpg" alt="Vicky Xu" style="border-radius: 50%;">
-
-</div>
-
-Hi, my name is Vicky Xu. I am a first-year student at Smith College. Though I haven’t declared my major, I’m thinking about double majoring in Statistical and Data Science and Art History. Data always amaze me! I love mining information from raw data, finding meaningful linkages based on analysis, and applying them into the real world.
-
 ### Christy Yang
 
 <div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
@@ -62,24 +32,16 @@ Hi, my name is Vicky Xu. I am a first-year student at Smith College. Though I ha
 
 </div>
 
-Hello, my name is Christy Yang. I’m a sophomore double majoring in SDS and Math. I am eager to use data and technology to drive real-world impact and to create a more inclusive society for disabled people in this lab.
+Hello, my name is Christy Yang. I’m a junior double majoring in SDS and Math. I am eager to use data and technology to drive real-world impact and to create a more inclusive society for disabled people in this lab.
 
-### Amber Liu
+### Lab Alumni
 
-<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
+Linh Pham (Fall 2022 - Spring 2023)
 
-<img src="../images/AmberLiu.JPG" alt="Amber Liu" style="border-radius: 50%;">
+Zhirou Liu (Spring 2023)
 
-</div>
+Vicky Xu (Spring 2023 & SURF 2023)
 
-Hi, my name is Amber Liu. I’m a senior double majoring in Psychology and SDS. I’m interested in learning and applying data science skills in addressing real-world problems faced by the disabled population especially with a focus on education.
+Amber Liu (SURF 2023)
 
-### Nikki Lin
-
-<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
-
-<img src="../images/NikkiLin.jpg" alt="Nikki Lin" style="border-radius: 50%;">
-
-</div>
-
-Hello, my name is Nikki Lin. I am a rising junior majoring in Statistical and Data Science and minoring in psychology at Smith College. I enjoy partaking in an interdisciplinary approach to research— applying my data analysis skills to the field of social psychology and the context of real-world problems. As an idealist grounded in pragmatism, I am always striving for a more innovative and efficient solution.
+Nikki Lin (SURF 2023)
