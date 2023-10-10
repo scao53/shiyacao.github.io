@@ -34,6 +34,16 @@ My name is Shiya Cao, the founder of the DIAl Lab. I've been working on disabili
 
 Hello, my name is Christy Yang. I’m a junior double majoring in SDS and Math. I am eager to use data and technology to drive real-world impact and to create a more inclusive society for disabled people in this lab.
 
+### Elm Markert
+
+<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
+
+<img src="../images/elm.png" alt="Elm Markert" style="border-radius: 50%;">
+
+</div>
+
+Hello, my name is Elm Markert and I am a junior Statistical and Data Sciences Major with a Biological Sciences Minor. I'm excited to engage in the human and social aspects of data analytics, and am eager to utilize my quantitative analysis skills to advance disability awareness and inclusion.
+
 ### Lab Alumni
 
 Linh Pham (Fall 2022 - Spring 2023)
