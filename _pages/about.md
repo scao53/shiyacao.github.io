@@ -22,7 +22,7 @@ I've published multiple papers in high-ranking peer-reviewed journals and confer
 
 </div>
 
-My name is Shiya Cao, the founder of the DIAl Lab. I've been working on disability inclusion research since Fall 2016 when I was a graduate student at Worcester Polytechnic Institute. I've studied accommodation management systems for disabled employees in the workplace, accessibility issues, applied statistics in disability inclusion using population surveys, the intersection of identity attributes, and the integration of disability incluison components into statistics and data science pedagogy. I am enthusiastic about the disability inclusion field and am hoping to promote this research and disability awareness in the statsitics and data science community.
+My name is Shiya Cao, the founder of the DIAl Lab. I've been working on disability inclusion research since Fall 2016 when I was a graduate student at Worcester Polytechnic Institute. I've studied accommodation management systems for disabled employees in the workplace, accessibility issues, applied statistics in disability inclusion using population surveys, the intersection of identity attributes, and the integration of disability inclusion components into statistics and data science pedagogy. I am enthusiastic about the disability inclusion field and am hoping to promote this research and disability awareness in the statsitics and data science community.
 
 ### Christy Yang
 
