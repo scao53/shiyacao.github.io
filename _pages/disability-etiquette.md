@@ -1,6 +1,5 @@
 ---
 permalink: /disability-etiquette/
-title: "Disability Etiquette"
 excerpt: "disability etiquette"
 author_profile: true
 ---
