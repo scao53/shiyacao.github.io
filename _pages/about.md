@@ -32,7 +32,7 @@ My name is Shiya Cao, the founder of the DIAl Lab. I've been working on disabili
 
 </div>
 
-Hello, my name is Christy Yang. I’m a junior double majoring in SDS and Math. I am eager to use data and technology to drive real-world impact and to create a more inclusive society for disabled people in this lab. I along with Vicky Xu presented the initial results of our project (co-authored with Prof. Cao) "Examining Environmental Barriers for Disabled Employees in Different Industries and Work Spaces" at the *2023 Women in Statistics and Data Science Conference*.
+Hello, my name is Christy Yang. I’m a junior double majoring in SDS and Math. I am eager to use data and technology to drive real-world impact and to create a more inclusive society for disabled people in this lab. I along with Vicky Xu (co-authored with Prof. Cao) presented the initial results of the project "Examining Environmental Barriers for Disabled Employees in Different Industries and Work Spaces" at the *2023 Women in Statistics and Data Science Conference*.
 
 ### Elm Markert
 
@@ -42,7 +42,7 @@ Hello, my name is Christy Yang. I’m a junior double majoring in SDS and Math. 
 
 </div>
 
-Hello, my name is Elm Markert and I am a junior Statistical and Data Sciences Major with a Biological Sciences Minor. I'm excited to engage in the human and social aspects of data analytics, and am eager to utilize my quantitative analysis skills to advance disability awareness and inclusion.
+Hello, my name is Elm Markert and I am a junior Statistical and Data Sciences Major with a Biological Sciences Minor. I'm excited to engage in the human and social aspects of data analytics, and am eager to utilize my quantitative analysis skills to advance disability awareness and inclusion. I joined the DIAL lab in Fall 2023 and worked with Christy Yang and Prof. Cao to write a journal paper for the project "Examining Environmental Barriers for Disabled Employees in Different Industries and Work Spaces".
 
 ### Lab Alumni
 
