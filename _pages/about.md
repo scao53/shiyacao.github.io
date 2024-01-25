@@ -28,7 +28,7 @@ My name is Shiya Cao, the founder of the DIAl Lab. I've been working on disabili
 
 <div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
 
-<img src="../images/ChristyYang.jpg" alt="Christy Yang" style="border-radius: 50%;">
+<img src="../images/ChristyYang_square.jpg" alt="Christy Yang" style="border-radius: 50%;">
 
 </div>
 
