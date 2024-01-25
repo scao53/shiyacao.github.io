@@ -32,7 +32,7 @@ My name is Shiya Cao, the founder of the DIAl Lab. I've been working on disabili
 
 </div>
 
-Hello, my name is Christy Yang. I’m a junior double majoring in SDS and Math. I am eager to use data and technology to drive real-world impact and to create a more inclusive society for disabled people in this lab.
+Hello, my name is Christy Yang. I’m a junior double majoring in SDS and Math. I am eager to use data and technology to drive real-world impact and to create a more inclusive society for disabled people in this lab. I along with Vicky Xu presented the initial results of our project (co-authored with Prof. Cao) "Examining Environmental Barriers for Disabled Employees in Different Industries and Work Spaces" at the *2023 Women in Statistics and Data Science Conference*.
 
 ### Elm Markert
 
