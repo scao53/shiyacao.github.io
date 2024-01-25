@@ -38,7 +38,7 @@ Hello, my name is Christy Yang. I’m a junior double majoring in SDS and Math. 
 
 <div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
 
-<img src="../images/elm_square.jpeg" alt="Elm Markert" style="border-radius: 100%;">
+<img src="../images/elm_square.jpeg" alt="Elm Markert" style="border-radius: 50%;">
 
 </div>
 
