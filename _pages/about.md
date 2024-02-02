@@ -44,6 +44,16 @@ Hello, my name is Christy Yang. I’m a junior double majoring in SDS and Math. 
 
 Hello, my name is Elm Markert and I am a junior Statistical and Data Sciences Major with a Biological Sciences Minor. I'm excited to engage in the human and social aspects of data analytics, and am eager to utilize my quantitative analysis skills to advance disability awareness and inclusion. I joined the DIAL lab in Fall 2023 and worked with Christy Yang and Prof. Cao to write a journal paper for the project "Examining Environmental Barriers for Disabled Employees in Different Industries and Work Spaces".
 
+### Sarah Susnea
+
+<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
+
+<img src="../images/SarahSusnea.jpeg" alt="Sarah Susnea" style="border-radius: 50%;">
+
+</div>
+
+Hello, my name is Sarah Susnea. I am a junior majoring in Statistical and Data Sciences and minoring in Sociology. I joined the DIAL lab in Spring 2024. I am excited to apply the quantitative and qualitative analysis skills I’ve learned throughout my studies to research disability inclusion at Smith. I am passionate about data science and statistics’ potential to contribute positively to our society, and I hope to assist the lab with achieving this goal as well as advancing awareness on the topics of disability inclusion.
+
 ### Lab Alumni
 
 Linh Pham (Fall 2022 - Spring 2023)
