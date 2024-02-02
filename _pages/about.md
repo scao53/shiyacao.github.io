@@ -48,7 +48,7 @@ Hello, my name is Elm Markert and I am a junior Statistical and Data Sciences Ma
 
 <div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
 
-<img src="../images/SarahSusnea.jpeg" alt="Sarah Susnea" style="border-radius: 50%;">
+<img src="../images/SarahSusnea.jpg" alt="Sarah Susnea" style="border-radius: 50%;">
 
 </div>
 
