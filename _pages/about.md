@@ -54,6 +54,16 @@ Hello, my name is Elm Markert and I am a junior Statistical and Data Sciences Ma
 
 Hello, my name is Sarah Susnea. I am a junior majoring in Statistical and Data Sciences and minoring in Sociology. I joined the DIAL lab in Spring 2024. I am excited to apply the quantitative and qualitative analysis skills I’ve learned throughout my studies to research disability inclusion at Smith. I am passionate about data science and statistics’ potential to contribute positively to our society, and I hope to assist the lab with achieving this goal as well as advancing awareness on the topics of disability inclusion.
 
+### Yujie Gong
+
+<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
+
+<img src="../images/YujieGong.JPG" alt="Yuejie Gong" style="border-radius: 50%;">
+
+</div>
+
+Hello, my name is Yujie Gong. I am a junior double majoring in Statistical & Data Science and Psychology. I am passionate about utilizing my data analysis skills to foster a more inclusive environment and improve the quality of life for individuals with disabilities. I am particularly interested in exploring ways to raise awareness and understanding of disability within our society. I hope that throughout this lab experience, I could gain more skills working with data and develop a deeper understanding towards disability inclusion.
+
 ### Lab Alumni
 
 Linh Pham (Fall 2022 - Spring 2023)
