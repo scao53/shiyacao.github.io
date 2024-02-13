@@ -64,6 +64,16 @@ Hello, my name is Sarah Susnea. I am a junior majoring in Statistical and Data S
 
 Hello, my name is Yujie Gong. I am a junior double majoring in Statistical & Data Science and Psychology. I am passionate about utilizing my data analysis skills to foster a more inclusive environment and improve the quality of life for individuals with disabilities. I am particularly interested in exploring ways to raise awareness and understanding of disability within our society. I hope that throughout this lab experience, I could gain more skills working with data and develop a deeper understanding towards disability inclusion.
 
+### Sophia Silovsky
+
+<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
+
+<img src="../images/sophia_silovsky.jpg" alt="Sophia Silovsky" style="border-radius: 50%;">
+
+</div>
+
+Sophia Silovsky is a 2024 senior with a major in Statistical and Data Sciences and a minor in Sociology. She wishes to investigate social justice issues, in particular disability, with statistical methods.
+
 ### Lab Alumni
 
 Linh Pham (Fall 2022 - Spring 2023)
