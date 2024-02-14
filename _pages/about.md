@@ -72,7 +72,7 @@ Hello, my name is Yujie Gong. I am a junior double majoring in Statistical & Dat
 
 </div>
 
-Sophia Silovsky is a 2024 senior with a major in Statistical and Data Sciences and a minor in Sociology. She wishes to investigate social justice issues, in particular disability, with statistical methods.
+Hello, my name is Sophia Silovsky. I am a senior with a Statistical and Data Sciences major and a Sociology minor. I am interested in investigating social justice issues, in particular disability, with statistical and data analytical methods. I am eager to utilize my current skills and learn more about this intersection of quantitative analysis and disability-based data. I joined the DIAL lab in Spring 2024, and I am excited to further research in disability inclusion.
 
 ### Lab Alumni
 
