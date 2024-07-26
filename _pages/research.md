@@ -17,7 +17,7 @@ Cao, S., & Loiacono, E. (2021). Perceptions of Web accessibility guidelines by s
 
 ## Conference Presentations
 
-Note: Student collaborators are underlined.
+Note: Student collaborators are <u>underlined</u>.
 
 Cao, S., <u>Yang, C.</u>, & <u>Xu, V.</u> (2023). Examining environmental barriers for disabled employees in different industries and work spaces. *2023 Women in Statistics and Data Science Conference*, Bellevue, Washington.
 
