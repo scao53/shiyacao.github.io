@@ -7,6 +7,10 @@ author_profile: true
 
 ## Selected Publications
 
+Note: Student collaborators are <u>underlined</u> and include graduation year.
+
+<u>Lin, J. Q. ’25J</u>, <u>Liu, K. ’24</u>, Cao, S., <u>Liu, Z. ’25</u>, and <u>Pham, L. ’25</u>. Examining the intersection of disability, race, gender, and age in shaping the employment outcomes of higher educated individuals. Under the 2nd round of review at the *Journal of Disability Policy Studies*.
+
 Cao, S. (2023). Examining information systems use to facilitate the workplace accommodation process. *Work: A Journal of Prevention, Assessment & Rehabilitation*. [https://doi.org/10.3233/WOR-220716](https://doi.org/10.3233/WOR-220716)
 
 Loiacono, E., & Cao, S. (2023). The chains that bind: Gender, disability, race, and IT accommodations. *In Handbook of Gender and Technology: Environment, Identity, Individual*, Trauth, E. and Quesenberry, J., eds. (252-272), Cheltenham, UK: Edward Elgar Publishing. [https://doi.org/10.4337/9781800377929.00021](https://doi.org/10.4337/9781800377929.00021)
@@ -17,9 +21,7 @@ Cao, S., & Loiacono, E. (2021). Perceptions of Web accessibility guidelines by s
 
 ## Conference Presentations
 
-Note: Student collaborators are <u>underlined</u>.
-
-Cao, S., <u>Yang, C.</u>, & <u>Xu, V.</u> (2023). Examining environmental barriers for disabled employees in different industries and work spaces. *2023 Women in Statistics and Data Science Conference*, Bellevue, Washington.
+Cao, S., <u>Yang, C. ’25J</u>, & <u>Xu, V.</u> (2023). Examining environmental barriers for disabled employees in different industries and work spaces. *2023 Women in Statistics and Data Science Conference*, Bellevue, Washington.
 
 <u>Xu, V.</u>, & Cao, S. (2022). Examining the dentist-industry financial relationship in Massachusetts: An analysis of the Open Payment Datasets for Program Year 2020. *2022 NextGen Data Science Day (DSD) Conference*, Virtual.
 
