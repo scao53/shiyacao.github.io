@@ -34,6 +34,16 @@ My name is Shiya Cao, the founder of the DIAl Lab. I've been working on disabili
 
 Hello, my name is Sarah Susnea. I am a junior majoring in Statistical and Data Sciences and minoring in Sociology. I joined the DIAL lab in Spring 2024. I am excited to apply the quantitative and qualitative analysis skills I’ve learned throughout my studies to research disability inclusion at Smith. I am passionate about data science and statistics’ potential to contribute positively to our society, and I hope to assist the lab with achieving this goal as well as advancing awareness on the topics of disability inclusion.
 
+### Lucia Qin
+
+<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
+
+<img src="../images/LuciaQin.JPG" alt="Lucia Qin" style="border-radius: 50%;">
+
+</div>
+
+Hi! I’m Lucia, a junior double majoring in Statistical and Data Sciences and Quantitative Economics. I’m passionate about data analytics and love diving into both qualitative and quantitative research using what I’ve learned in my classes. I’m excited to join the DIAL Lab this fall and can’t wait to learn more about different research methods, practice my data skills, and see how insights can drive real changes, especially in the disability inclusion field. 
+
 ### Lab Alumni
 
 Linh Pham (Fall 2022 - Spring 2023)
