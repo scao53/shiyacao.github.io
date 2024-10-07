@@ -44,6 +44,26 @@ Hello, my name is Sarah Susnea. I am a junior majoring in Statistical and Data S
 
 Hi! I’m Lucia, a junior double majoring in Statistical and Data Sciences and Quantitative Economics. I’m passionate about data analytics and love diving into both qualitative and quantitative research using what I’ve learned in my classes. I’m excited to join the DIAL Lab this fall and can’t wait to learn more about different research methods, practice my data skills, and see how insights can drive real changes, especially in the disability inclusion field. 
 
+### Kayla Tillmon
+
+<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
+
+<img src="../images/kayla.jpg" alt="Kayla Tillmon" style="border-radius: 50%;">
+
+</div>
+
+Hello! My name is Kayla. I’m a sophomore majoring in Statistical Data Sciences. I love data analysis more than anything and I’m excited to use what I learned in class and apply it to this lab. I joined this lab in Fall of 2024. Disability inclusion has always been a passion of mine so I’m looking forward to learn more and do what I can to make this campus more accessible.
+
+### Rae Traver-Fallick
+
+<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
+
+<img src="../images/rae.jpg" alt="Rae Traver-Fallick" style="border-radius: 50%;">
+
+</div>
+
+Hi, my name is Rae Traver-Fallick (they/them), and I’m a sophomore student and Posse scholar majoring in mathematics. I am passionate about leveraging mathematics and data science to drive social good, so I am thrilled to be joining the DIAL lab this fall. I can’t wait to apply the programming skills I’ve learned in the classroom to the issue of disability inclusion and dive into undergraduate research. In addition, outside of DIAL, I work to foster diversity and inclusion in STEM as a student leader of the AEMES (Achieving Excellence in Mathematics, Engineering, and Science) Peer Mentoring Program.
+
 ### Lab Alumni
 
 Linh Pham (Fall 2022 - Spring 2023)
