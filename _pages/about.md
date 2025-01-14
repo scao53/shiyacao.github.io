@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Shiya Cao, an Assistant Professor of Statistical and Data Sciences at Smith College. I created the Disability Inclusion Analytics Lab (DIAL) in Fall 2022, to advance my research in disability inclusion and broader social inclusion topics using quantitative and qualitative methods. My lab engages Smith College undergraduates in these research topics and helps them pay attention to human, social, and emotional elements of statistics and data science. If you're interested in a research collaboration or joining my lab, please [email me](mailto:scao53@smith.edu).
+Hi, I'm Shiya Cao, an Assistant Professor of Statistical and Data Sciences at Smith College. I created the Disability Inclusion Analytics Lab (DIAL) in Fall 2022, to advance my research in disability inclusion and broader social inclusion topics using quantitative and qualitative methods. My lab engages Smith College undergraduates in these research topics and helps them pay attention to human, social, and emotional elements of data science. If you're interested in a research collaboration or joining my lab, please [email me](mailto:scao53@smith.edu).
 
 I've published multiple papers in high-ranking peer-reviewed journals and conferences including *Work: A Journal of Prevention, Assessment & Rehabilitation*, *Behavior & Information Technology*, and *the Hawaii International Conference on System Sciences* as well as a book chapter titled *The Chains that Bind: Gender, Disability, Race, and IT Accommodations*.
 
