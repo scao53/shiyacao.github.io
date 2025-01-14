@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Shiya Cao, an Assistant Professor of Statistical and Data Sciences at Smith College. I created the Disability Inclusion Analytics Lab (DIAL) in Fall 2022, to advance my research in disability inclusion and broader social inclusion topics using quantitative, qualitative, and design science methods. My lab engages Smith College undergraduates in these research topics and helps them pay attention to human, social, and emotional elements of statistics and data science. If you're interested in a research collaboration or joining my lab, please [email me](mailto:scao53@smith.edu).
+Hi, I'm Shiya Cao, an Assistant Professor of Statistical and Data Sciences at Smith College. I created the Disability Inclusion Analytics Lab (DIAL) in Fall 2022, to advance my research in disability inclusion and broader social inclusion topics using quantitative and qualitative methods. My lab engages Smith College undergraduates in these research topics and helps them pay attention to human, social, and emotional elements of statistics and data science. If you're interested in a research collaboration or joining my lab, please [email me](mailto:scao53@smith.edu).
 
 I've published multiple papers in high-ranking peer-reviewed journals and conferences including *Work: A Journal of Prevention, Assessment & Rehabilitation*, *Behavior & Information Technology*, and *the Hawaii International Conference on System Sciences* as well as a book chapter titled *The Chains that Bind: Gender, Disability, Race, and IT Accommodations*.
 
@@ -22,7 +22,7 @@ I've published multiple papers in high-ranking peer-reviewed journals and confer
 
 </div>
 
-My name is Shiya Cao, the founder of the DIAl Lab. I've been working on disability inclusion research since Fall 2016 when I was a graduate student at Worcester Polytechnic Institute. I've studied accommodation management systems for disabled employees in the workplace, accessibility issues, applied statistics in disability inclusion using population surveys, the intersection of identity attributes, and the integration of disability inclusion components into statistics and data science pedagogy. I am enthusiastic about the disability inclusion field and am hoping to promote this research and disability awareness in the statsitics and data science community.
+My name is Shiya Cao, the founder of the DIAl Lab. I've been working on disability inclusion research since Fall 2016 when I was a graduate student at Worcester Polytechnic Institute. I've studied accommodation management systems for disabled employees in the workplace, accessibility issues, applied statistics in disability inclusion using population surveys, the intersection of identity attributes, and the integration of disability inclusion components into data science pedagogy. I am enthusiastic about the disability inclusion field and am hoping to promote this research and disability awareness in the data science community.
 
 ### Sarah Susnea
 
