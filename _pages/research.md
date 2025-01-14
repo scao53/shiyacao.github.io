@@ -9,7 +9,7 @@ author_profile: true
 
 Note: Student collaborators are <u>underlined</u> and include graduation year.
 
-<u>Lin, J. Q. ’25J</u>, <u>Liu, K. ’24</u>, Cao, S., <u>Liu, Z. ’25</u>, & <u>Pham, L. ’25</u>. Examining the intersection of disability, race, and gender in shaping the employment outcomes of higher educated individuals. Under the 2nd round of review at the *Journal of Disability Policy Studies*.
+<u>Lin, J. Q. ’25J</u>, <u>Liu, K. ’24</u>, Cao, S., <u>Liu, Z. ’25</u>, & <u>Pham, L. ’25</u>. (In preparation). Examining the intersection of disability, race, and gender in shaping the employment outcomes of higher educated individuals. 2nd revision submitted under review at the *Journal of Disability Policy Studies*.
 
 Cao, S. (2023). Examining information systems use to facilitate the workplace accommodation process. *Work: A Journal of Prevention, Assessment & Rehabilitation*. [https://doi.org/10.3233/WOR-220716](https://doi.org/10.3233/WOR-220716)
 
