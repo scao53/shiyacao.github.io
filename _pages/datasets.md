@@ -21,8 +21,6 @@ I've compiled a list of public population surveys that include disability-relate
 
 [Medical Expenditure Panel Survey (MEPS)](https://www.meps.ahrq.gov/mepsweb/data_stats/data_overview.jsp)
 
-[Behavioral Risk Factor Surveillance System (BRFSS)](https://www.cdc.gov/brfss/data_documentation/index.htm)
-
 [California Health Interview Survey (CHIS)](https://healthpolicy.ucla.edu/our-work/california-health-interview-survey-chis/access-chis-data)
 
 [National Survey of Children’s Health (NSCH)](https://www.census.gov/programs-surveys/nsch/data/datasets.html)
@@ -32,7 +30,5 @@ I've compiled a list of public population surveys that include disability-relate
 [National Beneficiary Survey (NBS)](https://www.ssa.gov/disabilityresearch/nbs.html?ab=3)
 
 [National Survey on Drug Use and Health (NSDUH)](https://www.samhsa.gov/data/data-we-collect/nsduh/datafiles)
-
-[Youth Risk Behavior Surveillance System (YRBSS)](https://www.cdc.gov/yrbs/data/index.html)
 
 [Administration for Community Living (ACL) Data](https://acl.gov/aging-and-disability-in-america/data-and-research)
