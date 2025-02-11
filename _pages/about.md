@@ -58,7 +58,7 @@ Hi, my name is Rae Traver-Fallick (they/them), and I’m a sophomore student and
 
 <div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
 
-<img src="../images/MehreenMirza.png" alt="Mehreen Mirza" style="border-radius: 50%;">
+<img src="../images/MehreenMirza.jpg" alt="Mehreen Mirza" style="border-radius: 50%;">
 
 </div>
 
