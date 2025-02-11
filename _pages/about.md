@@ -24,16 +24,6 @@ I've published multiple papers in high-ranking peer-reviewed journals and confer
 
 My name is Shiya Cao, the founder of the DIAl Lab. I've been working on disability inclusion research since Fall 2016 when I was a graduate student at Worcester Polytechnic Institute. I've studied accommodation management systems for disabled employees in the workplace, accessibility issues, applied statistics in disability inclusion using population surveys, the intersection of identity attributes, and the integration of disability inclusion components into data science pedagogy. I am enthusiastic about the disability inclusion field and am hoping to promote this research and disability awareness in the data science community.
 
-### Sarah Susnea
-
-<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
-
-<img src="../images/SarahSusnea.jpg" alt="Sarah Susnea" style="border-radius: 50%;">
-
-</div>
-
-Hello, my name is Sarah Susnea. I am a junior majoring in Statistical and Data Sciences and minoring in Sociology. I joined the DIAL lab in Spring 2024. I am excited to apply the quantitative and qualitative analysis skills I’ve learned throughout my studies to research disability inclusion at Smith. I am passionate about data science and statistics’ potential to contribute positively to our society, and I hope to assist the lab with achieving this goal as well as advancing awareness on the topics of disability inclusion.
-
 ### Lucia Qin
 
 <div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
@@ -64,6 +54,16 @@ Hello! My name is Kayla. I’m a sophomore majoring in Statistical Data Sciences
 
 Hi, my name is Rae Traver-Fallick (they/them), and I’m a sophomore student and Posse scholar majoring in mathematics. I am passionate about leveraging mathematics and data science to drive social good, so I am thrilled to be joining the DIAL lab this fall. I can’t wait to apply the programming skills I’ve learned in the classroom to the issue of disability inclusion and dive into undergraduate research. In addition, outside of DIAL, I work to foster diversity and inclusion in STEM as a student leader of the AEMES (Achieving Excellence in Mathematics, Engineering, and Science) Peer Mentoring Program.
 
+### Mehreen Mirza
+
+<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
+
+<img src="../images/MehreenMirza.png" alt="Mehreen Mirza" style="border-radius: 50%;">
+
+</div>
+
+Hello! My name is Mehreen and I am a senior majoring in Economics and Statistical Data Sciences at Smith. I initially started this project in Fall 2023 as my seminar project for the SDS 300di disability inclusion seminar class. I care deeply about disability justice, intersectionality and improving accessibility. I am an advocate of universal design and hope to incorporate it in the way I present my research. I am excited to join the lab this Spring to further explore the intersectionality and disparities within the community of people with chronic illnesses.
+
 ### Lab Alumni
 
 Linh Pham (Fall 2022 - Spring 2023)
@@ -83,3 +83,5 @@ Elm Markert (Fall 2023 - Spring 2024)
 Yujie Gong (Spring 2024)
 
 Sophia Silovsky (Spring 2024)
+
+Sarah Susnea (Spring 2024 & Fall 2024)
